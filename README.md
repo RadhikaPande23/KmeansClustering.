@@ -1,2 +1,2 @@
 # KmeansClustering.
-KmeansClustering on Iris Dataset.
+KmeansClustering on Iris Dataset from SkLearn.
